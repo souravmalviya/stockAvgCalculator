@@ -70,7 +70,7 @@ const App: React.FC = () => {
         </div>
         <footer className="text-center mt-8">
           <p className="text-sm text-slate-500 dark:text-slate-400">
-            Sourav Malviya Codes
+             Built by Sourav Malviya
           </p>
         </footer>
       </main>
