@@ -1,0 +1,5 @@
+{
+  "name": "Stock Average Calculator",
+  "description": "A clean, interactive web application to calculate the average buy price of stocks. Users can dynamically add and remove purchase entries to see the average price, total units, and total investment update in real-time.",
+  "requestFramePermissions": []
+}
