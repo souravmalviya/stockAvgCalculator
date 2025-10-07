@@ -27,8 +27,9 @@ const PurchaseInputRow: React.FC<PurchaseInputRowProps> = ({
         </label>
         <div className="relative">
             <span className="absolute inset-y-0 left-0 flex items-center pl-3 text-slate-500 dark:text-slate-400 pointer-events-none">
-                *
+              *
             </span>
+            
             <input
                 type="text"
                 inputMode="decimal"
